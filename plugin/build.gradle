@@ -19,7 +19,7 @@ plugins {
 }
 
 version project.file("../version.txt").text.trim()
-group "org.grails.plugins"
+group "org.tros"
 
 apply plugin: "eclipse"
 apply plugin: "idea"
